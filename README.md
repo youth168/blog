@@ -1,2 +1,1 @@
-# blog.panxw.com
-Personal blog
+# Personal blog
